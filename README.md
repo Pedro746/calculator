@@ -1,4 +1,4 @@
 # calculator
 
-#Aplicação criada com Recat-Native
+# Aplicação criada com Recat-Native
 
